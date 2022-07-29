@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Aula 7\Aula 7\bin\Debug\Aula 7.exe.config
+C:\Users\Aluno\Desktop\Aula 7\Aula 7\bin\Debug\Aula 7.exe
+C:\Users\Aluno\Desktop\Aula 7\Aula 7\bin\Debug\Aula 7.pdb
+C:\Users\Aluno\Desktop\Aula 7\Aula 7\obj\Debug\Aula 7.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula 7\Aula 7\obj\Debug\Aula 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Aula 7\Aula 7\obj\Debug\Aula_7.Form1.resources
+C:\Users\Aluno\Desktop\Aula 7\Aula 7\obj\Debug\Aula_7.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Aula 7\Aula 7\obj\Debug\Aula 7.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Aula 7\Aula 7\obj\Debug\Aula 7.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aula 7\Aula 7\obj\Debug\Aula 7.exe
+C:\Users\Aluno\Desktop\Aula 7\Aula 7\obj\Debug\Aula 7.pdb
